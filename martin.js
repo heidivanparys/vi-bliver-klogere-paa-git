@@ -1,0 +1,1 @@
+var martin = 1;
